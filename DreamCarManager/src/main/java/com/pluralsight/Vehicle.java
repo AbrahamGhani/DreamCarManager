@@ -1,4 +1,4 @@
-package main.java.com.pluralsight;
+package com.pluralsight;
 
 public class Vehicle {
 
