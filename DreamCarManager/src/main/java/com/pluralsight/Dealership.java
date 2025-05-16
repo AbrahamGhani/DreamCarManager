@@ -6,6 +6,7 @@ public class Dealership {
     private String name;
     private String address;
     private String phoneNumber;
+    private String demo;
     private ArrayList<Vehicle> inventory;
 
     public Dealership(String name, String address, String phoneNumber) {
